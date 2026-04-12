@@ -9,7 +9,7 @@ int main(){
 
     float C;
 
-    printf("Digite a temperatura em Celcius: ");
+    printf("Digite a temperatura em graus celcius: ");
     scanf("%f", &C);
 
     float F = C * (9.0/5.0)+32.0;
